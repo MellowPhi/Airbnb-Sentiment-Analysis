@@ -56,4 +56,5 @@ The dataset exceeds the 100mb Github limit, so I will be putting up an external 
 ## To do
 - Add `requirements.txt`
 - Add the link to the original dataset.
+- Include logistic regression results in a table
 
