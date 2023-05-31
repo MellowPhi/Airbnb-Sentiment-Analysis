@@ -13,6 +13,8 @@ Performed sentiment analysis on CLEANED data and generate a refined dataset
 Logsitic regression is used to train a model using the refined labeled dataset (Vectorised the review column and sentiment are labeled target for model training)
 Topic Modelling using LDA and NMF
 
+## Confusion matrix
+
 
 ## Key insights
 Most of the reviews are predominantly positive
